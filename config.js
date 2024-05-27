@@ -21,8 +21,8 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTI0NDU4NjU5OTM4MDAyOTQ0Mg.G8IF4Y.jLGvVmEPzWTcKwm_tH82xE72c80ABOqWChv7F8",
+  ownerID: ["", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
@@ -34,7 +34,7 @@ module.exports = {
 
 
   sponsor: {
-    status: true,
+    status: false,
     url: "https://www.youtube.com/@GlaceYT",
   },
 
